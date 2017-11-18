@@ -1,4 +1,6 @@
 #运行开发环境（ubuntu+pycharm）
+
+
 1. 下载源码 https或者ssh方式
 2. git checkout 到相应的分支
 3. 建立虚拟环境 virtualenv venv
@@ -8,7 +10,4 @@
 7. 初始化数据库 flask db upgrade; flask db migrate
 8. 运行程序 flask run
 
-
-ide 选择 pycharm， 方便开发，代码阅读
-settings/Project interpreter/ 选择对应的虚拟环境
 
